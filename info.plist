@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.gohoyer.openinhelium</string>
+	<key>category</key>
+	<string>Internet</string>
+	<key>connections</key>
+	<dict>
+		<key>187BD64E-E204-4B52-847C-29C5517E7D3C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>18ED1E8A-9AD0-41DC-B77A-41585E8D3B31</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>327FB1E1-8DB3-4352-BC48-7A859363909B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>18ED1E8A-9AD0-41DC-B77A-41585E8D3B31</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>61BA8E56-0E5F-4FC5-BB1A-97ABD1863AEF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D779688D-1FAC-449D-8B39-189235CEAF4C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>72F74B44-EF54-4F1B-A69E-479A21F2D2C8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>18ED1E8A-9AD0-41DC-B77A-41585E8D3B31</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>98199011-2116-4729-ACD4-13FCE2226F60</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>18ED1E8A-9AD0-41DC-B77A-41585E8D3B31</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AFF1C48C-52AD-4B34-8C30-92431C80E248</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>18ED1E8A-9AD0-41DC-B77A-41585E8D3B31</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>CCE84A5D-CDDE-464E-9FD8-FF31DBA3E9D8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>18ED1E8A-9AD0-41DC-B77A-41585E8D3B31</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D779688D-1FAC-449D-8B39-189235CEAF4C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>327FB1E1-8DB3-4352-BC48-7A859363909B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>40148A39-9B2F-4DB9-9DA3-BE302FB4CF24</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>98199011-2116-4729-ACD4-13FCE2226F60</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>C3600866-859B-4A8A-8B2E-174B08CE9AF4</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>E39D877A-E584-4F49-8C6C-3AC980E8EE8C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>06CCB2B5-F0D8-42A9-87FD-3CA2C3DB8786</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>EF540BF2-11C8-4EB3-A6BA-F74C5A84E383</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>D46DB266-F179-4DB8-A23D-0BC78C8BBA47</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>AFF1C48C-52AD-4B34-8C30-92431C80E248</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>7C842747-5392-48B3-A30D-A7E8E6DED7C8</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>187BD64E-E204-4B52-847C-29C5517E7D3C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>89B5B3FA-7A31-4DF1-A17F-B381C4D1B0CF</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>CCE84A5D-CDDE-464E-9FD8-FF31DBA3E9D8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>1F58DB6F-7A9E-478E-9FA1-45AEF9975067</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>72F74B44-EF54-4F1B-A69E-479A21F2D2C8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>D87EDAD7-69B5-4C92-B352-AE642D13F49D</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E39D877A-E584-4F49-8C6C-3AC980E8EE8C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>18ED1E8A-9AD0-41DC-B77A-41585E8D3B31</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EF540BF2-11C8-4EB3-A6BA-F74C5A84E383</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>18ED1E8A-9AD0-41DC-B77A-41585E8D3B31</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>GoHoyer</string>
+	<key>description</key>
+	<string>Opens current browser/clipboard url on Helium</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Load in Helium</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>------------
+-- Clipboard
+------------
+return the clipboard</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>327FB1E1-8DB3-4352-BC48-7A859363909B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>---------
+-- Safari
+---------
+tell application "Safari"
+	return URL of front document
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>98199011-2116-4729-ACD4-13FCE2226F60</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>----------------
+-- Google Chrome
+----------------
+tell application "Google Chrome" 
+    return URL of active tab of front window
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E39D877A-E584-4F49-8C6C-3AC980E8EE8C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>clipboard</string>
+						<key>outputlabel</key>
+						<string>ClipBoard</string>
+						<key>uid</key>
+						<string>40148A39-9B2F-4DB9-9DA3-BE302FB4CF24</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>safari</string>
+						<key>outputlabel</key>
+						<string>Safari</string>
+						<key>uid</key>
+						<string>C3600866-859B-4A8A-8B2E-174B08CE9AF4</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>chrome</string>
+						<key>outputlabel</key>
+						<string>Google Chrome</string>
+						<key>uid</key>
+						<string>06CCB2B5-F0D8-42A9-87FD-3CA2C3DB8786</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>chromium</string>
+						<key>outputlabel</key>
+						<string>Chromium</string>
+						<key>uid</key>
+						<string>D46DB266-F179-4DB8-A23D-0BC78C8BBA47</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>opera</string>
+						<key>outputlabel</key>
+						<string>Opera</string>
+						<key>uid</key>
+						<string>7C842747-5392-48B3-A30D-A7E8E6DED7C8</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>vivaldi</string>
+						<key>outputlabel</key>
+						<string>Vivaldi</string>
+						<key>uid</key>
+						<string>89B5B3FA-7A31-4DF1-A17F-B381C4D1B0CF</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>brave</string>
+						<key>outputlabel</key>
+						<string>Brave Browser</string>
+						<key>uid</key>
+						<string>1F58DB6F-7A9E-478E-9FA1-45AEF9975067</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>firefox</string>
+						<key>outputlabel</key>
+						<string>Firefox</string>
+						<key>uid</key>
+						<string>D87EDAD7-69B5-4C92-B352-AE642D13F49D</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Noop</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>D779688D-1FAC-449D-8B39-189235CEAF4C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>-----------
+-- Chromium
+-----------
+tell application "Chromium" 
+    return URL of active tab of front window
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>EF540BF2-11C8-4EB3-A6BA-F74C5A84E383</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>open helium://$1</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>18ED1E8A-9AD0-41DC-B77A-41585E8D3B31</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>lh</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>-- Credits to: 
+--    https://gist.github.com/vitorgalvao/5392178#file-get_title_and_url-applescript
+--    https://www.alfredforum.com/topic/2013-how-to-get-frontmost-tab’s-url-and-title-of-various-browsers/
+--    https://raw.githubusercontent.com/mgax/applescript-json/master/json.applescript
+--    https://stackoverflow.com/questions/38041852/does-applescript-have-a-replace-function
+
+-- Initialize Vars
+property results : {}
+
+on replace_chars(this_text, search_string, replacement_string)
+  set AppleScript's text item delimiters to the search_string
+  set the item_list to every text item of this_text
+  set AppleScript's text item delimiters to the replacement_string
+  set this_text to the item_list as string
+  set AppleScript's text item delimiters to ""
+  return this_text
+end replace_chars
+
+on encode(value)
+	set type to class of value
+	if type = integer or type = boolean then
+		return value as text
+	else if type = text then
+		return encodeString(value)
+	else if type = list then
+		return encodeList(value)
+	else if type = script then
+		return value's toJson()
+	else
+		error "Unknown type " &amp; type
+	end if
+end encode
+
+
+on encodeList(value_list)
+	set out_list to {}
+	repeat with value in value_list
+		copy encode(value) to end of out_list
+	end repeat
+	return "[" &amp; join(out_list, ", ") &amp; "]"
+end encodeList
+
+
+on encodeString(value)
+	set rv to ""
+	set codepoints to id of value
+	
+	if (class of codepoints) is not list then
+		set codepoints to {codepoints}
+	end if
+	
+	repeat with codepoint in codepoints
+		set codepoint to codepoint as integer
+		if codepoint = 34 then
+			set quoted_ch to "\\\""
+		else if codepoint = 92 then
+			set quoted_ch to "\\\\"
+		else if codepoint ≥ 32 and codepoint &lt; 127 then
+			set quoted_ch to character id codepoint
+		else
+			set quoted_ch to "\\u" &amp; hex4(codepoint)
+		end if
+		set rv to rv &amp; quoted_ch
+	end repeat
+	return "\"" &amp; rv &amp; "\""
+end encodeString
+
+
+on join(value_list, delimiter)
+	set original_delimiter to AppleScript's text item delimiters
+	set AppleScript's text item delimiters to delimiter
+	set rv to value_list as text
+	set AppleScript's text item delimiters to original_delimiter
+	return rv
+end join
+
+
+on hex4(n)
+	set digit_list to "0123456789abcdef"
+	set rv to ""
+	repeat until length of rv = 4
+		set digit to (n mod 16)
+		set n to (n - digit) / 16 as integer
+		set rv to (character (1 + digit) of digit_list) &amp; rv
+	end repeat
+	return rv
+end hex4
+
+
+on createDictWith(item_pairs)
+	set item_list to {}
+	
+	script Dict
+		on setkv(key, value)
+			copy {key, value} to end of item_list
+		end setkv
+		
+		on toJson()
+			set item_strings to {}
+			repeat with kv in item_list
+				set key_str to encodeString(item 1 of kv)
+				set value_str to encode(item 2 of kv)
+				copy key_str &amp; ": " &amp; value_str to end of item_strings
+			end repeat
+			return "{" &amp; join(item_strings, ", ") &amp; "}"
+		end toJson
+	end script
+	
+	repeat with pair in item_pairs
+		Dict's setkv(item 1 of pair, item 2 of pair)
+	end repeat
+	
+	return Dict
+end createDictWith
+
+
+on createDict()
+	return createDictWith({})
+end createDict
+
+-- Function to  check if an app is running
+on is_running(appName)
+	tell application "System Events" to (name of processes) contains appName
+end is_running
+
+-- Function to add a new item to results json
+on add_to_alfred_result(subtitle, title, arg, icon)
+  -- TODO: work on this later
+  -- Wasn't able to parse correcly the json for the icon
+  set iconString to "{'path': '"&amp; icon as text &amp; "'}"
+	set end of results to createDictWith({{"title", title as text}, {"arg", arg as text}, {"subtitle", subtitle as text}, {"icon", iconString as text}})
+end add_to_alfred_result
+
+---------------
+-- Clipboard
+---------------
+set currentCB to the clipboard
+add_to_alfred_result("Content -&gt; " &amp; currentCB, "Clipboard", "clipboard", "./icons/clipboard.png")
+
+-----------------------------
+-- Check if Safari is running
+-----------------------------
+if is_running("Safari") then
+	add_to_alfred_result("Open current URL from Safari", "Safari", "safari", "./icons/safari.png")
+end if
+
+------------------------------------
+-- Check if Google Chrome is running
+------------------------------------
+if is_running("Google Chrome") then
+  add_to_alfred_result("Open current URL from Google Chrome", "Google Chrome", "chrome", "./icons/chrome.png")
+end if
+
+------------------------------
+-- Check if Firefox is running
+------------------------------
+-- Firefox is currently not supported because of the thread above:
+-- https://bugzilla.mozilla.org/show_bug.cgi?id=516502
+--if is_running("Firefox") then
+--  add_to_alfred_result("Open current URL from Firefox", "Firefox", "firefox", "./icons/firefox.png")
+--end if
+
+------------------------------------
+-- Check if Chromium is running
+------------------------------------
+if is_running("Chromium") then
+  add_to_alfred_result("Open current URL from Chromium", "Chromium", "chromium", "./icons/chromium.png")
+end if
+
+------------------------------------
+-- Check if Opera is running
+------------------------------------
+if is_running("Opera") then
+  add_to_alfred_result("Open current URL from Opera", "Opera", "opera", "./icons/opera.png")
+end if
+
+------------------------------------
+-- Check if Vivaldi is running
+------------------------------------
+if is_running("Vivaldi") then
+  add_to_alfred_result("Open current URL from Vivaldi", "Vivaldi", "vivaldi", "./icons/vivaldi.png")
+end if
+
+------------------------------------
+-- Check if Brave Browser is running
+------------------------------------
+if is_running("Brave Browser") then
+  add_to_alfred_result("Open current URL from Brave Browser", "Brave Browser", "brave", "./icons/brave.png")
+end if
+
+-- Create root items object and encode to JSON
+set itemDict to createDict()
+itemDict's setkv("items", results)
+
+-- TODO: work on this later
+-- Wasn't able to parse correcly the json for the icon
+set formated_result to encode(itemDict)
+set formated_result to replace_chars(formated_result,"\"{","{")
+set formated_result to replace_chars(formated_result,"}\"","}")
+set formated_result to replace_chars(formated_result,"'path'","\"path\"")
+set formated_result to replace_chars(formated_result,"'./icons/","\"./icons/")
+set formated_result to replace_chars(formated_result,".png'",".png\"")
+
+return formated_result</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>61BA8E56-0E5F-4FC5-BB1A-97ABD1863AEF</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>-----------
+-- Opera
+-----------
+tell application "Opera" 
+    return URL of active tab of front window
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>AFF1C48C-52AD-4B34-8C30-92431C80E248</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>-----------
+-- Vivaldi
+-----------
+tell application "Vivaldi" 
+    return URL of active tab of front window
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>187BD64E-E204-4B52-847C-29C5517E7D3C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>----------------
+-- Brave Browser
+----------------
+tell application "Brave Browser" 
+    return URL of active tab of front window
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>CCE84A5D-CDDE-464E-9FD8-FF31DBA3E9D8</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>-- NOT WORKING PROPERLY
+tell application "Firefox"
+	activate
+	tell application "System Events"
+		keystroke "l" using {command down}
+		keystroke "c" using {command down}
+		return the clipboard
+	end tell
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>72F74B44-EF54-4F1B-A69E-479A21F2D2C8</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>This workflow allows you to opens the current url on your browser or clipboard directlly on Helium.
+
+Helium is a floating browser that stays allways on top of other windows and allows you to whatch media while do other stuff.
+
+The first time you use this workflow with one of the supported browsers it will ask you for permissions to interact with the browser to get its current URL.
+
+Actually the following browsers are supported:
+ - Safari
+ - Chrome
+ - Chromium
+ - Opera
+ - Vivaldi
+ - Brave Browser</string>
+	<key>uidata</key>
+	<dict>
+		<key>187BD64E-E204-4B52-847C-29C5517E7D3C</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>Get URL from
+VIVALDI</string>
+			<key>xpos</key>
+			<integer>515</integer>
+			<key>ypos</key>
+			<integer>850</integer>
+		</dict>
+		<key>18ED1E8A-9AD0-41DC-B77A-41585E8D3B31</key>
+		<dict>
+			<key>note</key>
+			<string>Opens in helium</string>
+			<key>xpos</key>
+			<integer>810</integer>
+			<key>ypos</key>
+			<integer>525</integer>
+		</dict>
+		<key>327FB1E1-8DB3-4352-BC48-7A859363909B</key>
+		<dict>
+			<key>note</key>
+			<string>Get URL from CLIPBOARD</string>
+			<key>xpos</key>
+			<integer>510</integer>
+			<key>ypos</key>
+			<integer>20</integer>
+		</dict>
+		<key>61BA8E56-0E5F-4FC5-BB1A-97ABD1863AEF</key>
+		<dict>
+			<key>note</key>
+			<string>Display open browsers</string>
+			<key>xpos</key>
+			<integer>40</integer>
+			<key>ypos</key>
+			<integer>555</integer>
+		</dict>
+		<key>72F74B44-EF54-4F1B-A69E-479A21F2D2C8</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>Get URL from
+FIREFOX (not working)</string>
+			<key>xpos</key>
+			<integer>515</integer>
+			<key>ypos</key>
+			<integer>1170</integer>
+		</dict>
+		<key>98199011-2116-4729-ACD4-13FCE2226F60</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>note</key>
+			<string>Get URL from
+SAFARI</string>
+			<key>xpos</key>
+			<integer>510</integer>
+			<key>ypos</key>
+			<integer>185</integer>
+		</dict>
+		<key>AFF1C48C-52AD-4B34-8C30-92431C80E248</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>Get URL from
+OPERA</string>
+			<key>xpos</key>
+			<integer>515</integer>
+			<key>ypos</key>
+			<integer>690</integer>
+		</dict>
+		<key>CCE84A5D-CDDE-464E-9FD8-FF31DBA3E9D8</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>note</key>
+			<string>Get URL from
+BRAVE BROWSER</string>
+			<key>xpos</key>
+			<integer>515</integer>
+			<key>ypos</key>
+			<integer>1015</integer>
+		</dict>
+		<key>D779688D-1FAC-449D-8B39-189235CEAF4C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>250</integer>
+			<key>ypos</key>
+			<integer>470</integer>
+		</dict>
+		<key>E39D877A-E584-4F49-8C6C-3AC980E8EE8C</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>note</key>
+			<string>Get URL from
+GOOGLE CHROME</string>
+			<key>xpos</key>
+			<integer>510</integer>
+			<key>ypos</key>
+			<integer>365</integer>
+		</dict>
+		<key>EF540BF2-11C8-4EB3-A6BA-F74C5A84E383</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>note</key>
+			<string>Get URL from
+CHROMIUM</string>
+			<key>xpos</key>
+			<integer>510</integer>
+			<key>ypos</key>
+			<integer>525</integer>
+		</dict>
+	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0.0</string>
+	<key>webaddress</key>
+	<string>https://github.com/gohoyer</string>
+</dict>
+</plist>
